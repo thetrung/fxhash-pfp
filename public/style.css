@@ -1,0 +1,12 @@
+body {
+  background-color: rgb(0, 0, 0);
+
+  /* leave it to hide the scrollbars */
+  overflow: hidden;
+
+  margin: 0;
+
+  justify-content: center;
+  align-items: center;
+  display: flex;
+}
